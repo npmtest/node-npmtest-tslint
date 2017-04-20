@@ -1,337 +1,337 @@
 <svg height="5342" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="5342" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-20 06:30:37 +0000  1130038 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-20 06:30:37 +0000    49178 bytes  CHANGELOG.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-20 06:30:37 +0000    11357 bytes  LICENSE</tspan>
-<tspan x="10" y="74">  3.  2017-04-20 06:30:37 +0000     4040 bytes  README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-20 06:30:37 +0000       51 bytes  bin/tslint</tspan>
-<tspan x="10" y="106">  5.  2017-04-20 06:30:37 +0000        0 bytes  index.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-20 06:30:37 +0000     4706 bytes  lib/configs/all.d.ts</tspan>
-<tspan x="10" y="138">  7.  2017-04-20 06:30:37 +0000     7631 bytes  lib/configs/all.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-20 06:30:37 +0000      809 bytes  lib/configs/latest.d.ts</tspan>
-<tspan x="10" y="170">  9.  2017-04-20 06:30:37 +0000     1045 bytes  lib/configs/latest.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-20 06:30:37 +0000     6204 bytes  lib/configs/recommended.d.ts</tspan>
-<tspan x="10" y="202"> 11.  2017-04-20 06:30:37 +0000     8506 bytes  lib/configs/recommended.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-20 06:30:37 +0000     4024 bytes  lib/configuration.d.ts</tspan>
-<tspan x="10" y="234"> 13.  2017-04-20 06:30:37 +0000    14328 bytes  lib/configuration.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-20 06:30:37 +0000      655 bytes  lib/enableDisableRules.d.ts</tspan>
-<tspan x="10" y="266"> 15.  2017-04-20 06:30:37 +0000     6255 bytes  lib/enableDisableRules.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-20 06:30:37 +0000      784 bytes  lib/error.d.ts</tspan>
-<tspan x="10" y="298"> 17.  2017-04-20 06:30:37 +0000     2098 bytes  lib/error.js</tspan>
-<tspan x="10" y="314"> 18.  2017-04-20 06:30:37 +0000      153 bytes  lib/formatterLoader.d.ts</tspan>
-<tspan x="10" y="330"> 19.  2017-04-20 06:30:37 +0000     2577 bytes  lib/formatterLoader.js</tspan>
-<tspan x="10" y="346"> 20.  2017-04-20 06:30:37 +0000      716 bytes  lib/formatters.d.ts</tspan>
-<tspan x="10" y="362"> 21.  2017-04-20 06:30:37 +0000      900 bytes  lib/formatters.js</tspan>
-<tspan x="10" y="378"> 22.  2017-04-20 06:30:37 +0000      999 bytes  lib/formatters/checkstyleFormatter.d.ts</tspan>
-<tspan x="10" y="394"> 23.  2017-04-20 06:30:37 +0000     4748 bytes  lib/formatters/checkstyleFormatter.js</tspan>
-<tspan x="10" y="410"> 24.  2017-04-20 06:30:37 +0000      971 bytes  lib/formatters/codeFrameFormatter.d.ts</tspan>
-<tspan x="10" y="426"> 25.  2017-04-20 06:30:37 +0000     4731 bytes  lib/formatters/codeFrameFormatter.js</tspan>
-<tspan x="10" y="442"> 26.  2017-04-20 06:30:37 +0000      971 bytes  lib/formatters/fileslistFormatter.d.ts</tspan>
-<tspan x="10" y="458"> 27.  2017-04-20 06:30:37 +0000     2353 bytes  lib/formatters/fileslistFormatter.js</tspan>
-<tspan x="10" y="474"> 28.  2017-04-20 06:30:37 +0000     1150 bytes  lib/formatters/index.d.ts</tspan>
-<tspan x="10" y="490"> 29.  2017-04-20 06:30:37 +0000     1569 bytes  lib/formatters/index.js</tspan>
-<tspan x="10" y="506"> 30.  2017-04-20 06:30:37 +0000      971 bytes  lib/formatters/jsonFormatter.d.ts</tspan>
-<tspan x="10" y="522"> 31.  2017-04-20 06:30:37 +0000     3469 bytes  lib/formatters/jsonFormatter.js</tspan>
-<tspan x="10" y="538"> 32.  2017-04-20 06:30:37 +0000      971 bytes  lib/formatters/msbuildFormatter.d.ts</tspan>
-<tspan x="10" y="554"> 33.  2017-04-20 06:30:37 +0000     2941 bytes  lib/formatters/msbuildFormatter.js</tspan>
-<tspan x="10" y="570"> 34.  2017-04-20 06:30:37 +0000      971 bytes  lib/formatters/pmdFormatter.d.ts</tspan>
-<tspan x="10" y="586"> 35.  2017-04-20 06:30:37 +0000     3501 bytes  lib/formatters/pmdFormatter.js</tspan>
-<tspan x="10" y="602"> 36.  2017-04-20 06:30:37 +0000      994 bytes  lib/formatters/proseFormatter.d.ts</tspan>
-<tspan x="10" y="618"> 37.  2017-04-20 06:30:37 +0000     3163 bytes  lib/formatters/proseFormatter.js</tspan>
-<tspan x="10" y="634"> 38.  2017-04-20 06:30:37 +0000     1115 bytes  lib/formatters/stylishFormatter.d.ts</tspan>
-<tspan x="10" y="650"> 39.  2017-04-20 06:30:37 +0000     5619 bytes  lib/formatters/stylishFormatter.js</tspan>
-<tspan x="10" y="666"> 40.  2017-04-20 06:30:37 +0000     1008 bytes  lib/formatters/tapFormatter.d.ts</tspan>
-<tspan x="10" y="682"> 41.  2017-04-20 06:30:37 +0000     4865 bytes  lib/formatters/tapFormatter.js</tspan>
-<tspan x="10" y="698"> 42.  2017-04-20 06:30:37 +0000     1008 bytes  lib/formatters/verboseFormatter.d.ts</tspan>
-<tspan x="10" y="714"> 43.  2017-04-20 06:30:37 +0000     2739 bytes  lib/formatters/verboseFormatter.js</tspan>
-<tspan x="10" y="730"> 44.  2017-04-20 06:30:37 +0000      997 bytes  lib/formatters/vsoFormatter.d.ts</tspan>
-<tspan x="10" y="746"> 45.  2017-04-20 06:30:37 +0000     3189 bytes  lib/formatters/vsoFormatter.js</tspan>
-<tspan x="10" y="762"> 46.  2017-04-20 06:30:37 +0000     1677 bytes  lib/index.d.ts</tspan>
-<tspan x="10" y="778"> 47.  2017-04-20 06:30:37 +0000     1420 bytes  lib/index.js</tspan>
-<tspan x="10" y="794"> 48.  2017-04-20 06:30:37 +0000      899 bytes  lib/language/formatter/abstractFormatter.d.ts</tspan>
-<tspan x="10" y="810"> 49.  2017-04-20 06:30:37 +0000      864 bytes  lib/language/formatter/abstractFormatter.js</tspan>
-<tspan x="10" y="826"> 50.  2017-04-20 06:30:37 +0000     1553 bytes  lib/language/formatter/formatter.d.ts</tspan>
-<tspan x="10" y="842"> 51.  2017-04-20 06:30:37 +0000      701 bytes  lib/language/formatter/formatter.js</tspan>
-<tspan x="10" y="858"> 52.  2017-04-20 06:30:37 +0000     1565 bytes  lib/language/rule/abstractRule.d.ts</tspan>
-<tspan x="10" y="874"> 53.  2017-04-20 06:30:37 +0000     2381 bytes  lib/language/rule/abstractRule.js</tspan>
-<tspan x="10" y="890"> 54.  2017-04-20 06:30:37 +0000      946 bytes  lib/language/rule/optionallyTypedRule.d.ts</tspan>
-<tspan x="10" y="906"> 55.  2017-04-20 06:30:37 +0000     1565 bytes  lib/language/rule/optionallyTypedRule.js</tspan>
-<tspan x="10" y="922"> 56.  2017-04-20 06:30:37 +0000     5369 bytes  lib/language/rule/rule.d.ts</tspan>
-<tspan x="10" y="938"> 57.  2017-04-20 06:30:37 +0000     6639 bytes  lib/language/rule/rule.js</tspan>
-<tspan x="10" y="954"> 58.  2017-04-20 06:30:37 +0000      964 bytes  lib/language/rule/typedRule.d.ts</tspan>
-<tspan x="10" y="970"> 59.  2017-04-20 06:30:37 +0000     1706 bytes  lib/language/rule/typedRule.js</tspan>
-<tspan x="10" y="986"> 60.  2017-04-20 06:30:37 +0000     5018 bytes  lib/language/utils.d.ts</tspan>
-<tspan x="10" y="1002"> 61.  2017-04-20 06:30:37 +0000    17070 bytes  lib/language/utils.js</tspan>
-<tspan x="10" y="1018"> 62.  2017-04-20 06:30:37 +0000     1464 bytes  lib/language/walker/blockScopeAwareRuleWalker.d.\</tspan>
+<tspan x="10" y="26">  0.  2017-04-20 06:31:44 +0000  1130038 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-20 06:31:44 +0000    49178 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-20 06:31:44 +0000    11357 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-20 06:31:44 +0000     4040 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-20 06:31:44 +0000       51 bytes  bin/tslint</tspan>
+<tspan x="10" y="106">  5.  2017-04-20 06:31:44 +0000        0 bytes  index.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-20 06:31:44 +0000     4706 bytes  lib/configs/all.d.ts</tspan>
+<tspan x="10" y="138">  7.  2017-04-20 06:31:44 +0000     7631 bytes  lib/configs/all.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-20 06:31:44 +0000      809 bytes  lib/configs/latest.d.ts</tspan>
+<tspan x="10" y="170">  9.  2017-04-20 06:31:44 +0000     1045 bytes  lib/configs/latest.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-20 06:31:44 +0000     6204 bytes  lib/configs/recommended.d.ts</tspan>
+<tspan x="10" y="202"> 11.  2017-04-20 06:31:44 +0000     8506 bytes  lib/configs/recommended.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-20 06:31:44 +0000     4024 bytes  lib/configuration.d.ts</tspan>
+<tspan x="10" y="234"> 13.  2017-04-20 06:31:44 +0000    14328 bytes  lib/configuration.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-20 06:31:44 +0000      655 bytes  lib/enableDisableRules.d.ts</tspan>
+<tspan x="10" y="266"> 15.  2017-04-20 06:31:44 +0000     6255 bytes  lib/enableDisableRules.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-20 06:31:44 +0000      784 bytes  lib/error.d.ts</tspan>
+<tspan x="10" y="298"> 17.  2017-04-20 06:31:44 +0000     2098 bytes  lib/error.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-20 06:31:44 +0000      153 bytes  lib/formatterLoader.d.ts</tspan>
+<tspan x="10" y="330"> 19.  2017-04-20 06:31:44 +0000     2577 bytes  lib/formatterLoader.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-20 06:31:44 +0000      716 bytes  lib/formatters.d.ts</tspan>
+<tspan x="10" y="362"> 21.  2017-04-20 06:31:44 +0000      900 bytes  lib/formatters.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-20 06:31:44 +0000      999 bytes  lib/formatters/checkstyleFormatter.d.ts</tspan>
+<tspan x="10" y="394"> 23.  2017-04-20 06:31:44 +0000     4748 bytes  lib/formatters/checkstyleFormatter.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-20 06:31:44 +0000      971 bytes  lib/formatters/codeFrameFormatter.d.ts</tspan>
+<tspan x="10" y="426"> 25.  2017-04-20 06:31:44 +0000     4731 bytes  lib/formatters/codeFrameFormatter.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-20 06:31:44 +0000      971 bytes  lib/formatters/fileslistFormatter.d.ts</tspan>
+<tspan x="10" y="458"> 27.  2017-04-20 06:31:44 +0000     2353 bytes  lib/formatters/fileslistFormatter.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-20 06:31:44 +0000     1150 bytes  lib/formatters/index.d.ts</tspan>
+<tspan x="10" y="490"> 29.  2017-04-20 06:31:44 +0000     1569 bytes  lib/formatters/index.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-20 06:31:44 +0000      971 bytes  lib/formatters/jsonFormatter.d.ts</tspan>
+<tspan x="10" y="522"> 31.  2017-04-20 06:31:44 +0000     3469 bytes  lib/formatters/jsonFormatter.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-20 06:31:44 +0000      971 bytes  lib/formatters/msbuildFormatter.d.ts</tspan>
+<tspan x="10" y="554"> 33.  2017-04-20 06:31:44 +0000     2941 bytes  lib/formatters/msbuildFormatter.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-20 06:31:44 +0000      971 bytes  lib/formatters/pmdFormatter.d.ts</tspan>
+<tspan x="10" y="586"> 35.  2017-04-20 06:31:44 +0000     3501 bytes  lib/formatters/pmdFormatter.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-20 06:31:44 +0000      994 bytes  lib/formatters/proseFormatter.d.ts</tspan>
+<tspan x="10" y="618"> 37.  2017-04-20 06:31:44 +0000     3163 bytes  lib/formatters/proseFormatter.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-20 06:31:44 +0000     1115 bytes  lib/formatters/stylishFormatter.d.ts</tspan>
+<tspan x="10" y="650"> 39.  2017-04-20 06:31:44 +0000     5619 bytes  lib/formatters/stylishFormatter.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-20 06:31:44 +0000     1008 bytes  lib/formatters/tapFormatter.d.ts</tspan>
+<tspan x="10" y="682"> 41.  2017-04-20 06:31:44 +0000     4865 bytes  lib/formatters/tapFormatter.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-20 06:31:44 +0000     1008 bytes  lib/formatters/verboseFormatter.d.ts</tspan>
+<tspan x="10" y="714"> 43.  2017-04-20 06:31:44 +0000     2739 bytes  lib/formatters/verboseFormatter.js</tspan>
+<tspan x="10" y="730"> 44.  2017-04-20 06:31:44 +0000      997 bytes  lib/formatters/vsoFormatter.d.ts</tspan>
+<tspan x="10" y="746"> 45.  2017-04-20 06:31:44 +0000     3189 bytes  lib/formatters/vsoFormatter.js</tspan>
+<tspan x="10" y="762"> 46.  2017-04-20 06:31:44 +0000     1677 bytes  lib/index.d.ts</tspan>
+<tspan x="10" y="778"> 47.  2017-04-20 06:31:44 +0000     1420 bytes  lib/index.js</tspan>
+<tspan x="10" y="794"> 48.  2017-04-20 06:31:44 +0000      899 bytes  lib/language/formatter/abstractFormatter.d.ts</tspan>
+<tspan x="10" y="810"> 49.  2017-04-20 06:31:44 +0000      864 bytes  lib/language/formatter/abstractFormatter.js</tspan>
+<tspan x="10" y="826"> 50.  2017-04-20 06:31:44 +0000     1553 bytes  lib/language/formatter/formatter.d.ts</tspan>
+<tspan x="10" y="842"> 51.  2017-04-20 06:31:44 +0000      701 bytes  lib/language/formatter/formatter.js</tspan>
+<tspan x="10" y="858"> 52.  2017-04-20 06:31:44 +0000     1565 bytes  lib/language/rule/abstractRule.d.ts</tspan>
+<tspan x="10" y="874"> 53.  2017-04-20 06:31:44 +0000     2381 bytes  lib/language/rule/abstractRule.js</tspan>
+<tspan x="10" y="890"> 54.  2017-04-20 06:31:44 +0000      946 bytes  lib/language/rule/optionallyTypedRule.d.ts</tspan>
+<tspan x="10" y="906"> 55.  2017-04-20 06:31:44 +0000     1565 bytes  lib/language/rule/optionallyTypedRule.js</tspan>
+<tspan x="10" y="922"> 56.  2017-04-20 06:31:44 +0000     5369 bytes  lib/language/rule/rule.d.ts</tspan>
+<tspan x="10" y="938"> 57.  2017-04-20 06:31:44 +0000     6639 bytes  lib/language/rule/rule.js</tspan>
+<tspan x="10" y="954"> 58.  2017-04-20 06:31:44 +0000      964 bytes  lib/language/rule/typedRule.d.ts</tspan>
+<tspan x="10" y="970"> 59.  2017-04-20 06:31:44 +0000     1706 bytes  lib/language/rule/typedRule.js</tspan>
+<tspan x="10" y="986"> 60.  2017-04-20 06:31:44 +0000     5018 bytes  lib/language/utils.d.ts</tspan>
+<tspan x="10" y="1002"> 61.  2017-04-20 06:31:44 +0000    17070 bytes  lib/language/utils.js</tspan>
+<tspan x="10" y="1018"> 62.  2017-04-20 06:31:44 +0000     1464 bytes  lib/language/walker/blockScopeAwareRuleWalker.d.\</tspan>
 <tspan x="10" y="1034">ts</tspan>
-<tspan x="10" y="1050"> 63.  2017-04-20 06:30:37 +0000     3811 bytes  lib/language/walker/blockScopeAwareRuleWalker.js</tspan>
-<tspan x="10" y="1066"> 64.  2017-04-20 06:30:37 +0000      870 bytes  lib/language/walker/index.d.ts</tspan>
-<tspan x="10" y="1082"> 65.  2017-04-20 06:30:37 +0000     1079 bytes  lib/language/walker/index.js</tspan>
-<tspan x="10" y="1098"> 66.  2017-04-20 06:30:37 +0000     1007 bytes  lib/language/walker/programAwareRuleWalker.d.ts</tspan>
-<tspan x="10" y="1114"> 67.  2017-04-20 06:30:37 +0000     1915 bytes  lib/language/walker/programAwareRuleWalker.js</tspan>
-<tspan x="10" y="1130"> 68.  2017-04-20 06:30:37 +0000     2299 bytes  lib/language/walker/ruleWalker.d.ts</tspan>
-<tspan x="10" y="1146"> 69.  2017-04-20 06:30:37 +0000     4401 bytes  lib/language/walker/ruleWalker.js</tspan>
-<tspan x="10" y="1162"> 70.  2017-04-20 06:30:37 +0000     1138 bytes  lib/language/walker/scopeAwareRuleWalker.d.ts</tspan>
-<tspan x="10" y="1178"> 71.  2017-04-20 06:30:37 +0000     3016 bytes  lib/language/walker/scopeAwareRuleWalker.js</tspan>
-<tspan x="10" y="1194"> 72.  2017-04-20 06:30:37 +0000     6556 bytes  lib/language/walker/syntaxWalker.d.ts</tspan>
-<tspan x="10" y="1210"> 73.  2017-04-20 06:30:37 +0000    20300 bytes  lib/language/walker/syntaxWalker.js</tspan>
-<tspan x="10" y="1226"> 74.  2017-04-20 06:30:37 +0000     1321 bytes  lib/language/walker/walkContext.d.ts</tspan>
-<tspan x="10" y="1242"> 75.  2017-04-20 06:30:37 +0000     1771 bytes  lib/language/walker/walkContext.js</tspan>
-<tspan x="10" y="1258"> 76.  2017-04-20 06:30:37 +0000     1141 bytes  lib/language/walker/walker.d.ts</tspan>
-<tspan x="10" y="1274"> 77.  2017-04-20 06:30:37 +0000     1723 bytes  lib/language/walker/walker.js</tspan>
-<tspan x="10" y="1290"> 78.  2017-04-20 06:30:37 +0000     1695 bytes  lib/linter.d.ts</tspan>
-<tspan x="10" y="1306"> 79.  2017-04-20 06:30:37 +0000    10761 bytes  lib/linter.js</tspan>
-<tspan x="10" y="1322"> 80.  2017-04-20 06:30:37 +0000      509 bytes  lib/ruleLoader.d.ts</tspan>
-<tspan x="10" y="1338"> 81.  2017-04-20 06:30:37 +0000     7485 bytes  lib/ruleLoader.js</tspan>
-<tspan x="10" y="1354"> 82.  2017-04-20 06:30:37 +0000      766 bytes  lib/rules.d.ts</tspan>
-<tspan x="10" y="1370"> 83.  2017-04-20 06:30:37 +0000      955 bytes  lib/rules.js</tspan>
-<tspan x="10" y="1386"> 84.  2017-04-20 06:30:37 +0000      381 bytes  lib/rules/adjacentOverloadSignaturesRule.d.ts</tspan>
-<tspan x="10" y="1402"> 85.  2017-04-20 06:30:37 +0000     6665 bytes  lib/rules/adjacentOverloadSignaturesRule.js</tspan>
-<tspan x="10" y="1418"> 86.  2017-04-20 06:30:37 +0000      384 bytes  lib/rules/alignRule.d.ts</tspan>
-<tspan x="10" y="1434"> 87.  2017-04-20 06:30:37 +0000     6292 bytes  lib/rules/alignRule.js</tspan>
-<tspan x="10" y="1450"> 88.  2017-04-20 06:30:37 +0000     1035 bytes  lib/rules/arrayTypeRule.d.ts</tspan>
-<tspan x="10" y="1466"> 89.  2017-04-20 06:30:37 +0000     7724 bytes  lib/rules/arrayTypeRule.js</tspan>
-<tspan x="10" y="1482"> 90.  2017-04-20 06:30:37 +0000      314 bytes  lib/rules/arrowParensRule.d.ts</tspan>
-<tspan x="10" y="1498"> 91.  2017-04-20 06:30:37 +0000     4760 bytes  lib/rules/arrowParensRule.js</tspan>
-<tspan x="10" y="1514"> 92.  2017-04-20 06:30:37 +0000      290 bytes  lib/rules/arrowReturnShorthandRule.d.ts</tspan>
-<tspan x="10" y="1530"> 93.  2017-04-20 06:30:37 +0000     5119 bytes  lib/rules/arrowReturnShorthandRule.js</tspan>
-<tspan x="10" y="1546"> 94.  2017-04-20 06:30:37 +0000      914 bytes  lib/rules/awaitPromiseRule.d.ts</tspan>
-<tspan x="10" y="1562"> 95.  2017-04-20 06:30:37 +0000     3195 bytes  lib/rules/awaitPromiseRule.js</tspan>
-<tspan x="10" y="1578"> 96.  2017-04-20 06:30:37 +0000     1292 bytes  lib/rules/banRule.d.ts</tspan>
-<tspan x="10" y="1594"> 97.  2017-04-20 06:30:37 +0000     5928 bytes  lib/rules/banRule.js</tspan>
-<tspan x="10" y="1610"> 98.  2017-04-20 06:30:37 +0000      940 bytes  lib/rules/banTypesRule.d.ts</tspan>
-<tspan x="10" y="1626"> 99.  2017-04-20 06:30:37 +0000     3700 bytes  lib/rules/banTypesRule.js</tspan>
-<tspan x="10" y="1642">100.  2017-04-20 06:30:37 +0000     1007 bytes  lib/rules/callableTypesRule.d.ts</tspan>
-<tspan x="10" y="1658">101.  2017-04-20 06:30:37 +0000     4535 bytes  lib/rules/callableTypesRule.js</tspan>
-<tspan x="10" y="1674">102.  2017-04-20 06:30:37 +0000      888 bytes  lib/rules/classNameRule.d.ts</tspan>
-<tspan x="10" y="1690">103.  2017-04-20 06:30:37 +0000     3347 bytes  lib/rules/classNameRule.js</tspan>
-<tspan x="10" y="1706">104.  2017-04-20 06:30:37 +0000      489 bytes  lib/rules/commentFormatRule.d.ts</tspan>
-<tspan x="10" y="1722">105.  2017-04-20 06:30:37 +0000    11311 bytes  lib/rules/commentFormatRule.js</tspan>
-<tspan x="10" y="1738">106.  2017-04-20 06:30:37 +0000     3459 bytes  lib/rules/completedDocsRule.d.ts</tspan>
-<tspan x="10" y="1754">107.  2017-04-20 06:30:37 +0000    17130 bytes  lib/rules/completedDocsRule.js</tspan>
-<tspan x="10" y="1770">108.  2017-04-20 06:30:37 +0000     1049 bytes  lib/rules/curlyRule.d.ts</tspan>
-<tspan x="10" y="1786">109.  2017-04-20 06:30:37 +0000     7700 bytes  lib/rules/curlyRule.js</tspan>
-<tspan x="10" y="1802">110.  2017-04-20 06:30:37 +0000     1163 bytes  lib/rules/cyclomaticComplexityRule.d.ts</tspan>
-<tspan x="10" y="1818">111.  2017-04-20 06:30:37 +0000    10471 bytes  lib/rules/cyclomaticComplexityRule.js</tspan>
-<tspan x="10" y="1834">112.  2017-04-20 06:30:37 +0000      888 bytes  lib/rules/eoflineRule.d.ts</tspan>
-<tspan x="10" y="1850">113.  2017-04-20 06:30:37 +0000     2580 bytes  lib/rules/eoflineRule.js</tspan>
-<tspan x="10" y="1866">114.  2017-04-20 06:30:37 +0000      888 bytes  lib/rules/fileHeaderRule.d.ts</tspan>
-<tspan x="10" y="1882">115.  2017-04-20 06:30:37 +0000     2960 bytes  lib/rules/fileHeaderRule.js</tspan>
-<tspan x="10" y="1898">116.  2017-04-20 06:30:37 +0000      888 bytes  lib/rules/forinRule.d.ts</tspan>
-<tspan x="10" y="1914">117.  2017-04-20 06:30:37 +0000     5279 bytes  lib/rules/forinRule.js</tspan>
-<tspan x="10" y="1930">118.  2017-04-20 06:30:37 +0000      290 bytes  lib/rules/importBlacklistRule.d.ts</tspan>
-<tspan x="10" y="1946">119.  2017-04-20 06:30:37 +0000     4748 bytes  lib/rules/importBlacklistRule.js</tspan>
-<tspan x="10" y="1962">120.  2017-04-20 06:30:37 +0000     1246 bytes  lib/rules/importSpacingRule.d.ts</tspan>
-<tspan x="10" y="1978">121.  2017-04-20 06:30:37 +0000     6387 bytes  lib/rules/importSpacingRule.js</tspan>
-<tspan x="10" y="1994">122.  2017-04-20 06:30:37 +0000      935 bytes  lib/rules/indentRule.d.ts</tspan>
-<tspan x="10" y="2010">123.  2017-04-20 06:30:37 +0000     7279 bytes  lib/rules/indentRule.js</tspan>
-<tspan x="10" y="2026">124.  2017-04-20 06:30:37 +0000      309 bytes  lib/rules/interfaceNameRule.d.ts</tspan>
-<tspan x="10" y="2042">125.  2017-04-20 06:30:37 +0000     3823 bytes  lib/rules/interfaceNameRule.js</tspan>
-<tspan x="10" y="2058">126.  2017-04-20 06:30:37 +0000      888 bytes  lib/rules/interfaceOverTypeLiteralRule.d.ts</tspan>
-<tspan x="10" y="2074">127.  2017-04-20 06:30:37 +0000     2847 bytes  lib/rules/interfaceOverTypeLiteralRule.js</tspan>
-<tspan x="10" y="2090">128.  2017-04-20 06:30:37 +0000      316 bytes  lib/rules/jsdocFormatRule.d.ts</tspan>
-<tspan x="10" y="2106">129.  2017-04-20 06:30:37 +0000     6765 bytes  lib/rules/jsdocFormatRule.js</tspan>
-<tspan x="10" y="2122">130.  2017-04-20 06:30:37 +0000      888 bytes  lib/rules/labelPositionRule.d.ts</tspan>
-<tspan x="10" y="2138">131.  2017-04-20 06:30:37 +0000     3702 bytes  lib/rules/labelPositionRule.js</tspan>
-<tspan x="10" y="2154">132.  2017-04-20 06:30:37 +0000      917 bytes  lib/rules/linebreakStyleRule.d.ts</tspan>
-<tspan x="10" y="2170">133.  2017-04-20 06:30:37 +0000     3561 bytes  lib/rules/linebreakStyleRule.js</tspan>
-<tspan x="10" y="2186">134.  2017-04-20 06:30:37 +0000      957 bytes  lib/rules/matchDefaultExportNameRule.d.ts</tspan>
-<tspan x="10" y="2202">135.  2017-04-20 06:30:37 +0000     3722 bytes  lib/rules/matchDefaultExportNameRule.js</tspan>
-<tspan x="10" y="2218">136.  2017-04-20 06:30:37 +0000      918 bytes  lib/rules/maxClassesPerFileRule.d.ts</tspan>
-<tspan x="10" y="2234">137.  2017-04-20 06:30:37 +0000     4452 bytes  lib/rules/maxClassesPerFileRule.js</tspan>
-<tspan x="10" y="2250">138.  2017-04-20 06:30:37 +0000      964 bytes  lib/rules/maxFileLineCountRule.d.ts</tspan>
-<tspan x="10" y="2266">139.  2017-04-20 06:30:37 +0000     3292 bytes  lib/rules/maxFileLineCountRule.js</tspan>
-<tspan x="10" y="2282">140.  2017-04-20 06:30:37 +0000      321 bytes  lib/rules/maxLineLengthRule.d.ts</tspan>
-<tspan x="10" y="2298">141.  2017-04-20 06:30:37 +0000     3177 bytes  lib/rules/maxLineLengthRule.js</tspan>
-<tspan x="10" y="2314">142.  2017-04-20 06:30:37 +0000      369 bytes  lib/rules/memberAccessRule.d.ts</tspan>
-<tspan x="10" y="2330">143.  2017-04-20 06:30:37 +0000     6608 bytes  lib/rules/memberAccessRule.js</tspan>
-<tspan x="10" y="2346">144.  2017-04-20 06:30:37 +0000     1670 bytes  lib/rules/memberOrderingRule.d.ts</tspan>
-<tspan x="10" y="2362">145.  2017-04-20 06:30:37 +0000    20799 bytes  lib/rules/memberOrderingRule.js</tspan>
-<tspan x="10" y="2378">146.  2017-04-20 06:30:37 +0000      888 bytes  lib/rules/newParensRule.d.ts</tspan>
-<tspan x="10" y="2394">147.  2017-04-20 06:30:37 +0000     2425 bytes  lib/rules/newParensRule.js</tspan>
-<tspan x="10" y="2410">148.  2017-04-20 06:30:37 +0000      264 bytes  lib/rules/newlineBeforeReturnRule.d.ts</tspan>
-<tspan x="10" y="2426">149.  2017-04-20 06:30:37 +0000     4198 bytes  lib/rules/newlineBeforeReturnRule.js</tspan>
-<tspan x="10" y="2442">150.  2017-04-20 06:30:37 +0000      264 bytes  lib/rules/noAngleBracketTypeAssertionRule.d.ts</tspan>
-<tspan x="10" y="2458">151.  2017-04-20 06:30:37 +0000     3226 bytes  lib/rules/noAngleBracketTypeAssertionRule.js</tspan>
-<tspan x="10" y="2474">152.  2017-04-20 06:30:37 +0000      888 bytes  lib/rules/noAnyRule.d.ts</tspan>
-<tspan x="10" y="2490">153.  2017-04-20 06:30:37 +0000     2614 bytes  lib/rules/noAnyRule.js</tspan>
-<tspan x="10" y="2506">154.  2017-04-20 06:30:37 +0000      264 bytes  lib/rules/noArgRule.d.ts</tspan>
-<tspan x="10" y="2522">155.  2017-04-20 06:30:37 +0000     3092 bytes  lib/rules/noArgRule.js</tspan>
-<tspan x="10" y="2538">156.  2017-04-20 06:30:37 +0000      888 bytes  lib/rules/noBitwiseRule.d.ts</tspan>
-<tspan x="10" y="2554">157.  2017-04-20 06:30:37 +0000     4444 bytes  lib/rules/noBitwiseRule.js</tspan>
-<tspan x="10" y="2570">158.  2017-04-20 06:30:37 +0000      310 bytes  lib/rules/noBooleanLiteralCompareRule.d.ts</tspan>
-<tspan x="10" y="2586">159.  2017-04-20 06:30:37 +0000     4686 bytes  lib/rules/noBooleanLiteralCompareRule.js</tspan>
-<tspan x="10" y="2602">160.  2017-04-20 06:30:37 +0000      888 bytes  lib/rules/noConditionalAssignmentRule.d.ts</tspan>
-<tspan x="10" y="2618">161.  2017-04-20 06:30:37 +0000     5209 bytes  lib/rules/noConditionalAssignmentRule.js</tspan>
-<tspan x="10" y="2634">162.  2017-04-20 06:30:37 +0000      552 bytes  lib/rules/noConsecutiveBlankLinesRule.d.ts</tspan>
-<tspan x="10" y="2650">163.  2017-04-20 06:30:37 +0000     5756 bytes  lib/rules/noConsecutiveBlankLinesRule.js</tspan>
-<tspan x="10" y="2666">164.  2017-04-20 06:30:37 +0000      880 bytes  lib/rules/noConsoleRule.d.ts</tspan>
-<tspan x="10" y="2682">165.  2017-04-20 06:30:37 +0000     2427 bytes  lib/rules/noConsoleRule.js</tspan>
-<tspan x="10" y="2698">166.  2017-04-20 06:30:37 +0000      264 bytes  lib/rules/noConstructRule.d.ts</tspan>
-<tspan x="10" y="2714">167.  2017-04-20 06:30:37 +0000     3398 bytes  lib/rules/noConstructRule.js</tspan>
-<tspan x="10" y="2730">168.  2017-04-20 06:30:37 +0000      888 bytes  lib/rules/noDebuggerRule.d.ts</tspan>
-<tspan x="10" y="2746">169.  2017-04-20 06:30:37 +0000     2378 bytes  lib/rules/noDebuggerRule.js</tspan>
-<tspan x="10" y="2762">170.  2017-04-20 06:30:37 +0000      888 bytes  lib/rules/noDefaultExportRule.d.ts</tspan>
-<tspan x="10" y="2778">171.  2017-04-20 06:30:37 +0000     4068 bytes  lib/rules/noDefaultExportRule.js</tspan>
-<tspan x="10" y="2794">172.  2017-04-20 06:30:37 +0000      938 bytes  lib/rules/noDuplicateSuperRule.d.ts</tspan>
-<tspan x="10" y="2810">173.  2017-04-20 06:30:37 +0000     7514 bytes  lib/rules/noDuplicateSuperRule.js</tspan>
-<tspan x="10" y="2826">174.  2017-04-20 06:30:37 +0000      278 bytes  lib/rules/noDuplicateVariableRule.d.ts</tspan>
-<tspan x="10" y="2842">175.  2017-04-20 06:30:37 +0000     4068 bytes  lib/rules/noDuplicateVariableRule.js</tspan>
-<tspan x="10" y="2858">176.  2017-04-20 06:30:37 +0000      311 bytes  lib/rules/noEmptyInterfaceRule.d.ts</tspan>
-<tspan x="10" y="2874">177.  2017-04-20 06:30:37 +0000     2810 bytes  lib/rules/noEmptyInterfaceRule.js</tspan>
-<tspan x="10" y="2890">178.  2017-04-20 06:30:37 +0000      264 bytes  lib/rules/noEmptyRule.d.ts</tspan>
-<tspan x="10" y="2906">179.  2017-04-20 06:30:37 +0000     3597 bytes  lib/rules/noEmptyRule.js</tspan>
-<tspan x="10" y="2922">180.  2017-04-20 06:30:37 +0000      264 bytes  lib/rules/noEvalRule.d.ts</tspan>
-<tspan x="10" y="2938">181.  2017-04-20 06:30:37 +0000     3016 bytes  lib/rules/noEvalRule.js</tspan>
-<tspan x="10" y="2954">182.  2017-04-20 06:30:37 +0000      917 bytes  lib/rules/noFloatingPromisesRule.d.ts</tspan>
-<tspan x="10" y="2970">183.  2017-04-20 06:30:37 +0000     4692 bytes  lib/rules/noFloatingPromisesRule.js</tspan>
-<tspan x="10" y="2986">184.  2017-04-20 06:30:37 +0000      917 bytes  lib/rules/noForInArrayRule.d.ts</tspan>
-<tspan x="10" y="3002">185.  2017-04-20 06:30:37 +0000     4152 bytes  lib/rules/noForInArrayRule.js</tspan>
-<tspan x="10" y="3018">186.  2017-04-20 06:30:37 +0000      264 bytes  lib/rules/noImportSideEffectRule.d.ts</tspan>
-<tspan x="10" y="3034">187.  2017-04-20 06:30:37 +0000     3569 bytes  lib/rules/noImportSideEffectRule.js</tspan>
-<tspan x="10" y="3050">188.  2017-04-20 06:30:37 +0000      290 bytes  lib/rules/noInferrableTypesRule.d.ts</tspan>
-<tspan x="10" y="3066">189.  2017-04-20 06:30:37 +0000     6680 bytes  lib/rules/noInferrableTypesRule.js</tspan>
-<tspan x="10" y="3082">190.  2017-04-20 06:30:37 +0000      972 bytes  lib/rules/noInferredEmptyObjectTypeRule.d.ts</tspan>
-<tspan x="10" y="3098">191.  2017-04-20 06:30:37 +0000     5679 bytes  lib/rules/noInferredEmptyObjectTypeRule.js</tspan>
-<tspan x="10" y="3114">192.  2017-04-20 06:30:37 +0000      264 bytes  lib/rules/noInternalModuleRule.d.ts</tspan>
-<tspan x="10" y="3130">193.  2017-04-20 06:30:37 +0000     3990 bytes  lib/rules/noInternalModuleRule.js</tspan>
-<tspan x="10" y="3146">194.  2017-04-20 06:30:37 +0000      264 bytes  lib/rules/noInvalidTemplateStringsRule.d.ts</tspan>
-<tspan x="10" y="3162">195.  2017-04-20 06:30:37 +0000     2588 bytes  lib/rules/noInvalidTemplateStringsRule.js</tspan>
-<tspan x="10" y="3178">196.  2017-04-20 06:30:37 +0000      938 bytes  lib/rules/noInvalidThisRule.d.ts</tspan>
-<tspan x="10" y="3194">197.  2017-04-20 06:30:37 +0000     4620 bytes  lib/rules/noInvalidThisRule.js</tspan>
-<tspan x="10" y="3210">198.  2017-04-20 06:30:37 +0000      348 bytes  lib/rules/noMagicNumbersRule.d.ts</tspan>
-<tspan x="10" y="3226">199.  2017-04-20 06:30:37 +0000     4750 bytes  lib/rules/noMagicNumbersRule.js</tspan>
-<tspan x="10" y="3242">200.  2017-04-20 06:30:37 +0000      932 bytes  lib/rules/noMergeableNamespaceRule.d.ts</tspan>
-<tspan x="10" y="3258">201.  2017-04-20 06:30:37 +0000     4040 bytes  lib/rules/noMergeableNamespaceRule.js</tspan>
-<tspan x="10" y="3274">202.  2017-04-20 06:30:37 +0000      315 bytes  lib/rules/noMisusedNewRule.d.ts</tspan>
-<tspan x="10" y="3290">203.  2017-04-20 06:30:37 +0000     3460 bytes  lib/rules/noMisusedNewRule.js</tspan>
-<tspan x="10" y="3306">204.  2017-04-20 06:30:37 +0000      264 bytes  lib/rules/noNamespaceRule.d.ts</tspan>
-<tspan x="10" y="3322">205.  2017-04-20 06:30:37 +0000     4050 bytes  lib/rules/noNamespaceRule.js</tspan>
-<tspan x="10" y="3338">206.  2017-04-20 06:30:37 +0000      888 bytes  lib/rules/noNonNullAssertionRule.d.ts</tspan>
-<tspan x="10" y="3354">207.  2017-04-20 06:30:37 +0000     2602 bytes  lib/rules/noNonNullAssertionRule.js</tspan>
-<tspan x="10" y="3370">208.  2017-04-20 06:30:37 +0000      888 bytes  lib/rules/noNullKeywordRule.d.ts</tspan>
-<tspan x="10" y="3386">209.  2017-04-20 06:30:37 +0000     2971 bytes  lib/rules/noNullKeywordRule.js</tspan>
-<tspan x="10" y="3402">210.  2017-04-20 06:30:37 +0000     1064 bytes  lib/rules/noParameterPropertiesRule.d.ts</tspan>
-<tspan x="10" y="3418">211.  2017-04-20 06:30:37 +0000     3608 bytes  lib/rules/noParameterPropertiesRule.js</tspan>
-<tspan x="10" y="3434">212.  2017-04-20 06:30:37 +0000      289 bytes  lib/rules/noReferenceImportRule.d.ts</tspan>
-<tspan x="10" y="3450">213.  2017-04-20 06:30:37 +0000     4107 bytes  lib/rules/noReferenceImportRule.js</tspan>
-<tspan x="10" y="3466">214.  2017-04-20 06:30:37 +0000      888 bytes  lib/rules/noReferenceRule.d.ts</tspan>
-<tspan x="10" y="3482">215.  2017-04-20 06:30:37 +0000     2587 bytes  lib/rules/noReferenceRule.js</tspan>
-<tspan x="10" y="3498">216.  2017-04-20 06:30:37 +0000      888 bytes  lib/rules/noRequireImportsRule.d.ts</tspan>
-<tspan x="10" y="3514">217.  2017-04-20 06:30:37 +0000     3216 bytes  lib/rules/noRequireImportsRule.js</tspan>
-<tspan x="10" y="3530">218.  2017-04-20 06:30:37 +0000      914 bytes  lib/rules/noShadowedVariableRule.d.ts</tspan>
-<tspan x="10" y="3546">219.  2017-04-20 06:30:37 +0000     7097 bytes  lib/rules/noShadowedVariableRule.js</tspan>
-<tspan x="10" y="3562">220.  2017-04-20 06:30:37 +0000      264 bytes  lib/rules/noSparseArraysRule.d.ts</tspan>
-<tspan x="10" y="3578">221.  2017-04-20 06:30:37 +0000     4193 bytes  lib/rules/noSparseArraysRule.js</tspan>
-<tspan x="10" y="3594">222.  2017-04-20 06:30:37 +0000      888 bytes  lib/rules/noStringLiteralRule.d.ts</tspan>
-<tspan x="10" y="3610">223.  2017-04-20 06:30:37 +0000     3622 bytes  lib/rules/noStringLiteralRule.js</tspan>
-<tspan x="10" y="3626">224.  2017-04-20 06:30:37 +0000      888 bytes  lib/rules/noStringThrowRule.d.ts</tspan>
-<tspan x="10" y="3642">225.  2017-04-20 06:30:37 +0000     3586 bytes  lib/rules/noStringThrowRule.js</tspan>
-<tspan x="10" y="3658">226.  2017-04-20 06:30:37 +0000      516 bytes  lib/rules/noSwitchCaseFallThroughRule.d.ts</tspan>
-<tspan x="10" y="3674">227.  2017-04-20 06:30:37 +0000     6234 bytes  lib/rules/noSwitchCaseFallThroughRule.js</tspan>
-<tspan x="10" y="3690">228.  2017-04-20 06:30:37 +0000      264 bytes  lib/rules/noTrailingWhitespaceRule.d.ts</tspan>
-<tspan x="10" y="3706">229.  2017-04-20 06:30:37 +0000     6420 bytes  lib/rules/noTrailingWhitespaceRule.js</tspan>
-<tspan x="10" y="3722">230.  2017-04-20 06:30:37 +0000      917 bytes  lib/rules/noUnboundMethodRule.d.ts</tspan>
-<tspan x="10" y="3738">231.  2017-04-20 06:30:37 +0000     3736 bytes  lib/rules/noUnboundMethodRule.js</tspan>
-<tspan x="10" y="3754">232.  2017-04-20 06:30:37 +0000      280 bytes  lib/rules/noUnnecessaryCallbackWrapperRule.d.ts</tspan>
-<tspan x="10" y="3770">233.  2017-04-20 06:30:37 +0000     3917 bytes  lib/rules/noUnnecessaryCallbackWrapperRule.js</tspan>
-<tspan x="10" y="3786">234.  2017-04-20 06:30:37 +0000      309 bytes  lib/rules/noUnnecessaryInitializerRule.d.ts</tspan>
-<tspan x="10" y="3802">235.  2017-04-20 06:30:37 +0000     5118 bytes  lib/rules/noUnnecessaryInitializerRule.js</tspan>
-<tspan x="10" y="3818">236.  2017-04-20 06:30:37 +0000      307 bytes  lib/rules/noUnnecessaryQualifierRule.d.ts</tspan>
-<tspan x="10" y="3834">237.  2017-04-20 06:30:37 +0000     5891 bytes  lib/rules/noUnnecessaryQualifierRule.js</tspan>
-<tspan x="10" y="3850">238.  2017-04-20 06:30:37 +0000     1014 bytes  lib/rules/noUnsafeAnyRule.d.ts</tspan>
-<tspan x="10" y="3866">239.  2017-04-20 06:30:37 +0000     9560 bytes  lib/rules/noUnsafeAnyRule.js</tspan>
-<tspan x="10" y="3882">240.  2017-04-20 06:30:37 +0000      450 bytes  lib/rules/noUnsafeFinallyRule.d.ts</tspan>
-<tspan x="10" y="3898">241.  2017-04-20 06:30:37 +0000     7832 bytes  lib/rules/noUnsafeFinallyRule.js</tspan>
-<tspan x="10" y="3914">242.  2017-04-20 06:30:37 +0000      264 bytes  lib/rules/noUnusedExpressionRule.d.ts</tspan>
-<tspan x="10" y="3930">243.  2017-04-20 06:30:37 +0000     9887 bytes  lib/rules/noUnusedExpressionRule.js</tspan>
-<tspan x="10" y="3946">244.  2017-04-20 06:30:37 +0000      258 bytes  lib/rules/noUnusedVariableRule.d.ts</tspan>
-<tspan x="10" y="3962">245.  2017-04-20 06:30:37 +0000    15855 bytes  lib/rules/noUnusedVariableRule.js</tspan>
-<tspan x="10" y="3978">246.  2017-04-20 06:30:37 +0000      931 bytes  lib/rules/noUseBeforeDeclareRule.d.ts</tspan>
-<tspan x="10" y="3994">247.  2017-04-20 06:30:37 +0000     4255 bytes  lib/rules/noUseBeforeDeclareRule.js</tspan>
-<tspan x="10" y="4010">248.  2017-04-20 06:30:37 +0000      888 bytes  lib/rules/noVarKeywordRule.d.ts</tspan>
-<tspan x="10" y="4026">249.  2017-04-20 06:30:37 +0000     3956 bytes  lib/rules/noVarKeywordRule.js</tspan>
-<tspan x="10" y="4042">250.  2017-04-20 06:30:37 +0000      888 bytes  lib/rules/noVarRequiresRule.d.ts</tspan>
-<tspan x="10" y="4058">251.  2017-04-20 06:30:37 +0000     3520 bytes  lib/rules/noVarRequiresRule.js</tspan>
-<tspan x="10" y="4074">252.  2017-04-20 06:30:37 +0000      917 bytes  lib/rules/noVoidExpressionRule.d.ts</tspan>
-<tspan x="10" y="4090">253.  2017-04-20 06:30:37 +0000     4138 bytes  lib/rules/noVoidExpressionRule.js</tspan>
-<tspan x="10" y="4106">254.  2017-04-20 06:30:37 +0000     1005 bytes  lib/rules/objectLiteralKeyQuotesRule.d.ts</tspan>
-<tspan x="10" y="4122">255.  2017-04-20 06:30:37 +0000     9481 bytes  lib/rules/objectLiteralKeyQuotesRule.js</tspan>
-<tspan x="10" y="4138">256.  2017-04-20 06:30:37 +0000      927 bytes  lib/rules/objectLiteralShorthandRule.d.ts</tspan>
-<tspan x="10" y="4154">257.  2017-04-20 06:30:37 +0000     3686 bytes  lib/rules/objectLiteralShorthandRule.js</tspan>
-<tspan x="10" y="4170">258.  2017-04-20 06:30:37 +0000      914 bytes  lib/rules/objectLiteralSortKeysRule.d.ts</tspan>
-<tspan x="10" y="4186">259.  2017-04-20 06:30:37 +0000     4999 bytes  lib/rules/objectLiteralSortKeysRule.js</tspan>
-<tspan x="10" y="4202">260.  2017-04-20 06:30:37 +0000     1064 bytes  lib/rules/oneLineRule.d.ts</tspan>
-<tspan x="10" y="4218">261.  2017-04-20 06:30:37 +0000    14812 bytes  lib/rules/oneLineRule.js</tspan>
-<tspan x="10" y="4234">262.  2017-04-20 06:30:37 +0000      888 bytes  lib/rules/oneVariablePerDeclarationRule.d.ts</tspan>
-<tspan x="10" y="4250">263.  2017-04-20 06:30:37 +0000     3984 bytes  lib/rules/oneVariablePerDeclarationRule.js</tspan>
-<tspan x="10" y="4266">264.  2017-04-20 06:30:37 +0000      264 bytes  lib/rules/onlyArrowFunctionsRule.d.ts</tspan>
-<tspan x="10" y="4282">265.  2017-04-20 06:30:37 +0000     4851 bytes  lib/rules/onlyArrowFunctionsRule.js</tspan>
-<tspan x="10" y="4298">266.  2017-04-20 06:30:37 +0000      942 bytes  lib/rules/orderedImportsRule.d.ts</tspan>
-<tspan x="10" y="4314">267.  2017-04-20 06:30:37 +0000    15287 bytes  lib/rules/orderedImportsRule.js</tspan>
-<tspan x="10" y="4330">268.  2017-04-20 06:30:37 +0000      942 bytes  lib/rules/preferConstRule.d.ts</tspan>
-<tspan x="10" y="4346">269.  2017-04-20 06:30:37 +0000    14492 bytes  lib/rules/preferConstRule.js</tspan>
-<tspan x="10" y="4362">270.  2017-04-20 06:30:37 +0000      264 bytes  lib/rules/preferForOfRule.d.ts</tspan>
-<tspan x="10" y="4378">271.  2017-04-20 06:30:37 +0000     7779 bytes  lib/rules/preferForOfRule.js</tspan>
-<tspan x="10" y="4394">272.  2017-04-20 06:30:37 +0000      264 bytes  lib/rules/preferFunctionOverMethodRule.d.ts</tspan>
-<tspan x="10" y="4410">273.  2017-04-20 06:30:37 +0000     5656 bytes  lib/rules/preferFunctionOverMethodRule.js</tspan>
-<tspan x="10" y="4426">274.  2017-04-20 06:30:37 +0000      888 bytes  lib/rules/preferMethodSignatureRule.d.ts</tspan>
-<tspan x="10" y="4442">275.  2017-04-20 06:30:37 +0000     3144 bytes  lib/rules/preferMethodSignatureRule.js</tspan>
-<tspan x="10" y="4458">276.  2017-04-20 06:30:37 +0000      309 bytes  lib/rules/preferTemplateRule.d.ts</tspan>
-<tspan x="10" y="4474">277.  2017-04-20 06:30:37 +0000     5204 bytes  lib/rules/preferTemplateRule.js</tspan>
-<tspan x="10" y="4490">278.  2017-04-20 06:30:37 +0000      917 bytes  lib/rules/promiseFunctionAsyncRule.d.ts</tspan>
-<tspan x="10" y="4506">279.  2017-04-20 06:30:37 +0000     4613 bytes  lib/rules/promiseFunctionAsyncRule.js</tspan>
-<tspan x="10" y="4522">280.  2017-04-20 06:30:37 +0000      948 bytes  lib/rules/quotemarkRule.d.ts</tspan>
-<tspan x="10" y="4538">281.  2017-04-20 06:30:37 +0000     5716 bytes  lib/rules/quotemarkRule.js</tspan>
-<tspan x="10" y="4554">282.  2017-04-20 06:30:37 +0000      264 bytes  lib/rules/radixRule.d.ts</tspan>
-<tspan x="10" y="4570">283.  2017-04-20 06:30:37 +0000     3709 bytes  lib/rules/radixRule.js</tspan>
-<tspan x="10" y="4586">284.  2017-04-20 06:30:37 +0000      298 bytes  lib/rules/restrictPlusOperandsRule.d.ts</tspan>
-<tspan x="10" y="4602">285.  2017-04-20 06:30:37 +0000     3775 bytes  lib/rules/restrictPlusOperandsRule.js</tspan>
-<tspan x="10" y="4618">286.  2017-04-20 06:30:37 +0000      353 bytes  lib/rules/returnUndefinedRule.d.ts</tspan>
-<tspan x="10" y="4634">287.  2017-04-20 06:30:37 +0000     5202 bytes  lib/rules/returnUndefinedRule.js</tspan>
-<tspan x="10" y="4650">288.  2017-04-20 06:30:37 +0000      360 bytes  lib/rules/semicolonRule.d.ts</tspan>
-<tspan x="10" y="4666">289.  2017-04-20 06:30:37 +0000    11403 bytes  lib/rules/semicolonRule.js</tspan>
-<tspan x="10" y="4682">290.  2017-04-20 06:30:37 +0000      943 bytes  lib/rules/spaceBeforeFunctionParenRule.d.ts</tspan>
-<tspan x="10" y="4698">291.  2017-04-20 06:30:37 +0000     8492 bytes  lib/rules/spaceBeforeFunctionParenRule.js</tspan>
-<tspan x="10" y="4714">292.  2017-04-20 06:30:37 +0000     1354 bytes  lib/rules/strictBooleanExpressionsRule.d.ts</tspan>
-<tspan x="10" y="4730">293.  2017-04-20 06:30:37 +0000    16404 bytes  lib/rules/strictBooleanExpressionsRule.js</tspan>
-<tspan x="10" y="4746">294.  2017-04-20 06:30:37 +0000      461 bytes  lib/rules/strictTypePredicatesRule.d.ts</tspan>
-<tspan x="10" y="4762">295.  2017-04-20 06:30:37 +0000     9998 bytes  lib/rules/strictTypePredicatesRule.js</tspan>
-<tspan x="10" y="4778">296.  2017-04-20 06:30:37 +0000      264 bytes  lib/rules/switchDefaultRule.d.ts</tspan>
-<tspan x="10" y="4794">297.  2017-04-20 06:30:37 +0000     2414 bytes  lib/rules/switchDefaultRule.js</tspan>
-<tspan x="10" y="4810">298.  2017-04-20 06:30:37 +0000      338 bytes  lib/rules/trailingCommaRule.d.ts</tspan>
-<tspan x="10" y="4826">299.  2017-04-20 06:30:37 +0000     8965 bytes  lib/rules/trailingCommaRule.js</tspan>
-<tspan x="10" y="4842">300.  2017-04-20 06:30:37 +0000      306 bytes  lib/rules/tripleEqualsRule.d.ts</tspan>
-<tspan x="10" y="4858">301.  2017-04-20 06:30:37 +0000     4195 bytes  lib/rules/tripleEqualsRule.js</tspan>
-<tspan x="10" y="4874">302.  2017-04-20 06:30:37 +0000      264 bytes  lib/rules/typedefRule.d.ts</tspan>
-<tspan x="10" y="4890">303.  2017-04-20 06:30:37 +0000    12489 bytes  lib/rules/typedefRule.js</tspan>
-<tspan x="10" y="4906">304.  2017-04-20 06:30:37 +0000      853 bytes  lib/rules/typedefWhitespaceRule.d.ts</tspan>
-<tspan x="10" y="4922">305.  2017-04-20 06:30:37 +0000    13718 bytes  lib/rules/typedefWhitespaceRule.js</tspan>
-<tspan x="10" y="4938">306.  2017-04-20 06:30:37 +0000      888 bytes  lib/rules/typeofCompareRule.d.ts</tspan>
-<tspan x="10" y="4954">307.  2017-04-20 06:30:37 +0000     3651 bytes  lib/rules/typeofCompareRule.js</tspan>
-<tspan x="10" y="4970">308.  2017-04-20 06:30:37 +0000      566 bytes  lib/rules/unifiedSignaturesRule.d.ts</tspan>
-<tspan x="10" y="4986">309.  2017-04-20 06:30:37 +0000    12889 bytes  lib/rules/unifiedSignaturesRule.js</tspan>
-<tspan x="10" y="5002">310.  2017-04-20 06:30:37 +0000      264 bytes  lib/rules/useIsnanRule.d.ts</tspan>
-<tspan x="10" y="5018">311.  2017-04-20 06:30:37 +0000     3593 bytes  lib/rules/useIsnanRule.js</tspan>
-<tspan x="10" y="5034">312.  2017-04-20 06:30:37 +0000      949 bytes  lib/rules/variableNameRule.d.ts</tspan>
-<tspan x="10" y="5050">313.  2017-04-20 06:30:37 +0000     9031 bytes  lib/rules/variableNameRule.js</tspan>
-<tspan x="10" y="5066">314.  2017-04-20 06:30:37 +0000      264 bytes  lib/rules/whitespaceRule.d.ts</tspan>
-<tspan x="10" y="5082">315.  2017-04-20 06:30:37 +0000    12819 bytes  lib/rules/whitespaceRule.js</tspan>
-<tspan x="10" y="5098">316.  2017-04-20 06:30:37 +0000     1618 bytes  lib/runner.d.ts</tspan>
-<tspan x="10" y="5114">317.  2017-04-20 06:30:37 +0000     7545 bytes  lib/runner.js</tspan>
-<tspan x="10" y="5130">318.  2017-04-20 06:30:37 +0000      872 bytes  lib/test.d.ts</tspan>
-<tspan x="10" y="5146">319.  2017-04-20 06:30:37 +0000    11076 bytes  lib/test.js</tspan>
-<tspan x="10" y="5162">320.  2017-04-20 06:30:37 +0000     1364 bytes  lib/test/lines.d.ts</tspan>
-<tspan x="10" y="5178">321.  2017-04-20 06:30:37 +0000     6702 bytes  lib/test/lines.js</tspan>
-<tspan x="10" y="5194">322.  2017-04-20 06:30:37 +0000      363 bytes  lib/test/lintError.d.ts</tspan>
-<tspan x="10" y="5210">323.  2017-04-20 06:30:37 +0000     1481 bytes  lib/test/lintError.js</tspan>
-<tspan x="10" y="5226">324.  2017-04-20 06:30:37 +0000      615 bytes  lib/test/parse.d.ts</tspan>
-<tspan x="10" y="5242">325.  2017-04-20 06:30:37 +0000     7082 bytes  lib/test/parse.js</tspan>
-<tspan x="10" y="5258">326.  2017-04-20 06:30:37 +0000        0 bytes  lib/tslint-cli.d.ts</tspan>
-<tspan x="10" y="5274">327.  2017-04-20 06:30:37 +0000     7836 bytes  lib/tslint-cli.js</tspan>
-<tspan x="10" y="5290">328.  2017-04-20 06:30:37 +0000     2051 bytes  lib/utils.d.ts</tspan>
-<tspan x="10" y="5306">329.  2017-04-20 06:30:37 +0000     4712 bytes  lib/utils.js</tspan>
-<tspan x="10" y="5322">330.  2017-04-20 06:30:37 +0000     4248 bytes  package.json</tspan>
+<tspan x="10" y="1050"> 63.  2017-04-20 06:31:44 +0000     3811 bytes  lib/language/walker/blockScopeAwareRuleWalker.js</tspan>
+<tspan x="10" y="1066"> 64.  2017-04-20 06:31:44 +0000      870 bytes  lib/language/walker/index.d.ts</tspan>
+<tspan x="10" y="1082"> 65.  2017-04-20 06:31:44 +0000     1079 bytes  lib/language/walker/index.js</tspan>
+<tspan x="10" y="1098"> 66.  2017-04-20 06:31:44 +0000     1007 bytes  lib/language/walker/programAwareRuleWalker.d.ts</tspan>
+<tspan x="10" y="1114"> 67.  2017-04-20 06:31:44 +0000     1915 bytes  lib/language/walker/programAwareRuleWalker.js</tspan>
+<tspan x="10" y="1130"> 68.  2017-04-20 06:31:44 +0000     2299 bytes  lib/language/walker/ruleWalker.d.ts</tspan>
+<tspan x="10" y="1146"> 69.  2017-04-20 06:31:44 +0000     4401 bytes  lib/language/walker/ruleWalker.js</tspan>
+<tspan x="10" y="1162"> 70.  2017-04-20 06:31:44 +0000     1138 bytes  lib/language/walker/scopeAwareRuleWalker.d.ts</tspan>
+<tspan x="10" y="1178"> 71.  2017-04-20 06:31:44 +0000     3016 bytes  lib/language/walker/scopeAwareRuleWalker.js</tspan>
+<tspan x="10" y="1194"> 72.  2017-04-20 06:31:44 +0000     6556 bytes  lib/language/walker/syntaxWalker.d.ts</tspan>
+<tspan x="10" y="1210"> 73.  2017-04-20 06:31:44 +0000    20300 bytes  lib/language/walker/syntaxWalker.js</tspan>
+<tspan x="10" y="1226"> 74.  2017-04-20 06:31:44 +0000     1321 bytes  lib/language/walker/walkContext.d.ts</tspan>
+<tspan x="10" y="1242"> 75.  2017-04-20 06:31:44 +0000     1771 bytes  lib/language/walker/walkContext.js</tspan>
+<tspan x="10" y="1258"> 76.  2017-04-20 06:31:44 +0000     1141 bytes  lib/language/walker/walker.d.ts</tspan>
+<tspan x="10" y="1274"> 77.  2017-04-20 06:31:44 +0000     1723 bytes  lib/language/walker/walker.js</tspan>
+<tspan x="10" y="1290"> 78.  2017-04-20 06:31:44 +0000     1695 bytes  lib/linter.d.ts</tspan>
+<tspan x="10" y="1306"> 79.  2017-04-20 06:31:44 +0000    10761 bytes  lib/linter.js</tspan>
+<tspan x="10" y="1322"> 80.  2017-04-20 06:31:44 +0000      509 bytes  lib/ruleLoader.d.ts</tspan>
+<tspan x="10" y="1338"> 81.  2017-04-20 06:31:44 +0000     7485 bytes  lib/ruleLoader.js</tspan>
+<tspan x="10" y="1354"> 82.  2017-04-20 06:31:44 +0000      766 bytes  lib/rules.d.ts</tspan>
+<tspan x="10" y="1370"> 83.  2017-04-20 06:31:44 +0000      955 bytes  lib/rules.js</tspan>
+<tspan x="10" y="1386"> 84.  2017-04-20 06:31:44 +0000      381 bytes  lib/rules/adjacentOverloadSignaturesRule.d.ts</tspan>
+<tspan x="10" y="1402"> 85.  2017-04-20 06:31:44 +0000     6665 bytes  lib/rules/adjacentOverloadSignaturesRule.js</tspan>
+<tspan x="10" y="1418"> 86.  2017-04-20 06:31:44 +0000      384 bytes  lib/rules/alignRule.d.ts</tspan>
+<tspan x="10" y="1434"> 87.  2017-04-20 06:31:44 +0000     6292 bytes  lib/rules/alignRule.js</tspan>
+<tspan x="10" y="1450"> 88.  2017-04-20 06:31:44 +0000     1035 bytes  lib/rules/arrayTypeRule.d.ts</tspan>
+<tspan x="10" y="1466"> 89.  2017-04-20 06:31:44 +0000     7724 bytes  lib/rules/arrayTypeRule.js</tspan>
+<tspan x="10" y="1482"> 90.  2017-04-20 06:31:44 +0000      314 bytes  lib/rules/arrowParensRule.d.ts</tspan>
+<tspan x="10" y="1498"> 91.  2017-04-20 06:31:44 +0000     4760 bytes  lib/rules/arrowParensRule.js</tspan>
+<tspan x="10" y="1514"> 92.  2017-04-20 06:31:44 +0000      290 bytes  lib/rules/arrowReturnShorthandRule.d.ts</tspan>
+<tspan x="10" y="1530"> 93.  2017-04-20 06:31:44 +0000     5119 bytes  lib/rules/arrowReturnShorthandRule.js</tspan>
+<tspan x="10" y="1546"> 94.  2017-04-20 06:31:44 +0000      914 bytes  lib/rules/awaitPromiseRule.d.ts</tspan>
+<tspan x="10" y="1562"> 95.  2017-04-20 06:31:44 +0000     3195 bytes  lib/rules/awaitPromiseRule.js</tspan>
+<tspan x="10" y="1578"> 96.  2017-04-20 06:31:44 +0000     1292 bytes  lib/rules/banRule.d.ts</tspan>
+<tspan x="10" y="1594"> 97.  2017-04-20 06:31:44 +0000     5928 bytes  lib/rules/banRule.js</tspan>
+<tspan x="10" y="1610"> 98.  2017-04-20 06:31:44 +0000      940 bytes  lib/rules/banTypesRule.d.ts</tspan>
+<tspan x="10" y="1626"> 99.  2017-04-20 06:31:44 +0000     3700 bytes  lib/rules/banTypesRule.js</tspan>
+<tspan x="10" y="1642">100.  2017-04-20 06:31:44 +0000     1007 bytes  lib/rules/callableTypesRule.d.ts</tspan>
+<tspan x="10" y="1658">101.  2017-04-20 06:31:44 +0000     4535 bytes  lib/rules/callableTypesRule.js</tspan>
+<tspan x="10" y="1674">102.  2017-04-20 06:31:44 +0000      888 bytes  lib/rules/classNameRule.d.ts</tspan>
+<tspan x="10" y="1690">103.  2017-04-20 06:31:44 +0000     3347 bytes  lib/rules/classNameRule.js</tspan>
+<tspan x="10" y="1706">104.  2017-04-20 06:31:44 +0000      489 bytes  lib/rules/commentFormatRule.d.ts</tspan>
+<tspan x="10" y="1722">105.  2017-04-20 06:31:44 +0000    11311 bytes  lib/rules/commentFormatRule.js</tspan>
+<tspan x="10" y="1738">106.  2017-04-20 06:31:44 +0000     3459 bytes  lib/rules/completedDocsRule.d.ts</tspan>
+<tspan x="10" y="1754">107.  2017-04-20 06:31:44 +0000    17130 bytes  lib/rules/completedDocsRule.js</tspan>
+<tspan x="10" y="1770">108.  2017-04-20 06:31:44 +0000     1049 bytes  lib/rules/curlyRule.d.ts</tspan>
+<tspan x="10" y="1786">109.  2017-04-20 06:31:44 +0000     7700 bytes  lib/rules/curlyRule.js</tspan>
+<tspan x="10" y="1802">110.  2017-04-20 06:31:44 +0000     1163 bytes  lib/rules/cyclomaticComplexityRule.d.ts</tspan>
+<tspan x="10" y="1818">111.  2017-04-20 06:31:44 +0000    10471 bytes  lib/rules/cyclomaticComplexityRule.js</tspan>
+<tspan x="10" y="1834">112.  2017-04-20 06:31:44 +0000      888 bytes  lib/rules/eoflineRule.d.ts</tspan>
+<tspan x="10" y="1850">113.  2017-04-20 06:31:44 +0000     2580 bytes  lib/rules/eoflineRule.js</tspan>
+<tspan x="10" y="1866">114.  2017-04-20 06:31:44 +0000      888 bytes  lib/rules/fileHeaderRule.d.ts</tspan>
+<tspan x="10" y="1882">115.  2017-04-20 06:31:44 +0000     2960 bytes  lib/rules/fileHeaderRule.js</tspan>
+<tspan x="10" y="1898">116.  2017-04-20 06:31:44 +0000      888 bytes  lib/rules/forinRule.d.ts</tspan>
+<tspan x="10" y="1914">117.  2017-04-20 06:31:44 +0000     5279 bytes  lib/rules/forinRule.js</tspan>
+<tspan x="10" y="1930">118.  2017-04-20 06:31:44 +0000      290 bytes  lib/rules/importBlacklistRule.d.ts</tspan>
+<tspan x="10" y="1946">119.  2017-04-20 06:31:44 +0000     4748 bytes  lib/rules/importBlacklistRule.js</tspan>
+<tspan x="10" y="1962">120.  2017-04-20 06:31:44 +0000     1246 bytes  lib/rules/importSpacingRule.d.ts</tspan>
+<tspan x="10" y="1978">121.  2017-04-20 06:31:44 +0000     6387 bytes  lib/rules/importSpacingRule.js</tspan>
+<tspan x="10" y="1994">122.  2017-04-20 06:31:44 +0000      935 bytes  lib/rules/indentRule.d.ts</tspan>
+<tspan x="10" y="2010">123.  2017-04-20 06:31:44 +0000     7279 bytes  lib/rules/indentRule.js</tspan>
+<tspan x="10" y="2026">124.  2017-04-20 06:31:44 +0000      309 bytes  lib/rules/interfaceNameRule.d.ts</tspan>
+<tspan x="10" y="2042">125.  2017-04-20 06:31:44 +0000     3823 bytes  lib/rules/interfaceNameRule.js</tspan>
+<tspan x="10" y="2058">126.  2017-04-20 06:31:44 +0000      888 bytes  lib/rules/interfaceOverTypeLiteralRule.d.ts</tspan>
+<tspan x="10" y="2074">127.  2017-04-20 06:31:44 +0000     2847 bytes  lib/rules/interfaceOverTypeLiteralRule.js</tspan>
+<tspan x="10" y="2090">128.  2017-04-20 06:31:44 +0000      316 bytes  lib/rules/jsdocFormatRule.d.ts</tspan>
+<tspan x="10" y="2106">129.  2017-04-20 06:31:44 +0000     6765 bytes  lib/rules/jsdocFormatRule.js</tspan>
+<tspan x="10" y="2122">130.  2017-04-20 06:31:44 +0000      888 bytes  lib/rules/labelPositionRule.d.ts</tspan>
+<tspan x="10" y="2138">131.  2017-04-20 06:31:44 +0000     3702 bytes  lib/rules/labelPositionRule.js</tspan>
+<tspan x="10" y="2154">132.  2017-04-20 06:31:44 +0000      917 bytes  lib/rules/linebreakStyleRule.d.ts</tspan>
+<tspan x="10" y="2170">133.  2017-04-20 06:31:44 +0000     3561 bytes  lib/rules/linebreakStyleRule.js</tspan>
+<tspan x="10" y="2186">134.  2017-04-20 06:31:44 +0000      957 bytes  lib/rules/matchDefaultExportNameRule.d.ts</tspan>
+<tspan x="10" y="2202">135.  2017-04-20 06:31:44 +0000     3722 bytes  lib/rules/matchDefaultExportNameRule.js</tspan>
+<tspan x="10" y="2218">136.  2017-04-20 06:31:44 +0000      918 bytes  lib/rules/maxClassesPerFileRule.d.ts</tspan>
+<tspan x="10" y="2234">137.  2017-04-20 06:31:44 +0000     4452 bytes  lib/rules/maxClassesPerFileRule.js</tspan>
+<tspan x="10" y="2250">138.  2017-04-20 06:31:44 +0000      964 bytes  lib/rules/maxFileLineCountRule.d.ts</tspan>
+<tspan x="10" y="2266">139.  2017-04-20 06:31:44 +0000     3292 bytes  lib/rules/maxFileLineCountRule.js</tspan>
+<tspan x="10" y="2282">140.  2017-04-20 06:31:44 +0000      321 bytes  lib/rules/maxLineLengthRule.d.ts</tspan>
+<tspan x="10" y="2298">141.  2017-04-20 06:31:44 +0000     3177 bytes  lib/rules/maxLineLengthRule.js</tspan>
+<tspan x="10" y="2314">142.  2017-04-20 06:31:44 +0000      369 bytes  lib/rules/memberAccessRule.d.ts</tspan>
+<tspan x="10" y="2330">143.  2017-04-20 06:31:44 +0000     6608 bytes  lib/rules/memberAccessRule.js</tspan>
+<tspan x="10" y="2346">144.  2017-04-20 06:31:44 +0000     1670 bytes  lib/rules/memberOrderingRule.d.ts</tspan>
+<tspan x="10" y="2362">145.  2017-04-20 06:31:44 +0000    20799 bytes  lib/rules/memberOrderingRule.js</tspan>
+<tspan x="10" y="2378">146.  2017-04-20 06:31:44 +0000      888 bytes  lib/rules/newParensRule.d.ts</tspan>
+<tspan x="10" y="2394">147.  2017-04-20 06:31:44 +0000     2425 bytes  lib/rules/newParensRule.js</tspan>
+<tspan x="10" y="2410">148.  2017-04-20 06:31:44 +0000      264 bytes  lib/rules/newlineBeforeReturnRule.d.ts</tspan>
+<tspan x="10" y="2426">149.  2017-04-20 06:31:44 +0000     4198 bytes  lib/rules/newlineBeforeReturnRule.js</tspan>
+<tspan x="10" y="2442">150.  2017-04-20 06:31:44 +0000      264 bytes  lib/rules/noAngleBracketTypeAssertionRule.d.ts</tspan>
+<tspan x="10" y="2458">151.  2017-04-20 06:31:44 +0000     3226 bytes  lib/rules/noAngleBracketTypeAssertionRule.js</tspan>
+<tspan x="10" y="2474">152.  2017-04-20 06:31:44 +0000      888 bytes  lib/rules/noAnyRule.d.ts</tspan>
+<tspan x="10" y="2490">153.  2017-04-20 06:31:44 +0000     2614 bytes  lib/rules/noAnyRule.js</tspan>
+<tspan x="10" y="2506">154.  2017-04-20 06:31:44 +0000      264 bytes  lib/rules/noArgRule.d.ts</tspan>
+<tspan x="10" y="2522">155.  2017-04-20 06:31:44 +0000     3092 bytes  lib/rules/noArgRule.js</tspan>
+<tspan x="10" y="2538">156.  2017-04-20 06:31:44 +0000      888 bytes  lib/rules/noBitwiseRule.d.ts</tspan>
+<tspan x="10" y="2554">157.  2017-04-20 06:31:44 +0000     4444 bytes  lib/rules/noBitwiseRule.js</tspan>
+<tspan x="10" y="2570">158.  2017-04-20 06:31:44 +0000      310 bytes  lib/rules/noBooleanLiteralCompareRule.d.ts</tspan>
+<tspan x="10" y="2586">159.  2017-04-20 06:31:44 +0000     4686 bytes  lib/rules/noBooleanLiteralCompareRule.js</tspan>
+<tspan x="10" y="2602">160.  2017-04-20 06:31:44 +0000      888 bytes  lib/rules/noConditionalAssignmentRule.d.ts</tspan>
+<tspan x="10" y="2618">161.  2017-04-20 06:31:44 +0000     5209 bytes  lib/rules/noConditionalAssignmentRule.js</tspan>
+<tspan x="10" y="2634">162.  2017-04-20 06:31:44 +0000      552 bytes  lib/rules/noConsecutiveBlankLinesRule.d.ts</tspan>
+<tspan x="10" y="2650">163.  2017-04-20 06:31:44 +0000     5756 bytes  lib/rules/noConsecutiveBlankLinesRule.js</tspan>
+<tspan x="10" y="2666">164.  2017-04-20 06:31:44 +0000      880 bytes  lib/rules/noConsoleRule.d.ts</tspan>
+<tspan x="10" y="2682">165.  2017-04-20 06:31:44 +0000     2427 bytes  lib/rules/noConsoleRule.js</tspan>
+<tspan x="10" y="2698">166.  2017-04-20 06:31:44 +0000      264 bytes  lib/rules/noConstructRule.d.ts</tspan>
+<tspan x="10" y="2714">167.  2017-04-20 06:31:44 +0000     3398 bytes  lib/rules/noConstructRule.js</tspan>
+<tspan x="10" y="2730">168.  2017-04-20 06:31:44 +0000      888 bytes  lib/rules/noDebuggerRule.d.ts</tspan>
+<tspan x="10" y="2746">169.  2017-04-20 06:31:44 +0000     2378 bytes  lib/rules/noDebuggerRule.js</tspan>
+<tspan x="10" y="2762">170.  2017-04-20 06:31:44 +0000      888 bytes  lib/rules/noDefaultExportRule.d.ts</tspan>
+<tspan x="10" y="2778">171.  2017-04-20 06:31:44 +0000     4068 bytes  lib/rules/noDefaultExportRule.js</tspan>
+<tspan x="10" y="2794">172.  2017-04-20 06:31:44 +0000      938 bytes  lib/rules/noDuplicateSuperRule.d.ts</tspan>
+<tspan x="10" y="2810">173.  2017-04-20 06:31:44 +0000     7514 bytes  lib/rules/noDuplicateSuperRule.js</tspan>
+<tspan x="10" y="2826">174.  2017-04-20 06:31:44 +0000      278 bytes  lib/rules/noDuplicateVariableRule.d.ts</tspan>
+<tspan x="10" y="2842">175.  2017-04-20 06:31:44 +0000     4068 bytes  lib/rules/noDuplicateVariableRule.js</tspan>
+<tspan x="10" y="2858">176.  2017-04-20 06:31:44 +0000      311 bytes  lib/rules/noEmptyInterfaceRule.d.ts</tspan>
+<tspan x="10" y="2874">177.  2017-04-20 06:31:44 +0000     2810 bytes  lib/rules/noEmptyInterfaceRule.js</tspan>
+<tspan x="10" y="2890">178.  2017-04-20 06:31:44 +0000      264 bytes  lib/rules/noEmptyRule.d.ts</tspan>
+<tspan x="10" y="2906">179.  2017-04-20 06:31:44 +0000     3597 bytes  lib/rules/noEmptyRule.js</tspan>
+<tspan x="10" y="2922">180.  2017-04-20 06:31:44 +0000      264 bytes  lib/rules/noEvalRule.d.ts</tspan>
+<tspan x="10" y="2938">181.  2017-04-20 06:31:44 +0000     3016 bytes  lib/rules/noEvalRule.js</tspan>
+<tspan x="10" y="2954">182.  2017-04-20 06:31:44 +0000      917 bytes  lib/rules/noFloatingPromisesRule.d.ts</tspan>
+<tspan x="10" y="2970">183.  2017-04-20 06:31:44 +0000     4692 bytes  lib/rules/noFloatingPromisesRule.js</tspan>
+<tspan x="10" y="2986">184.  2017-04-20 06:31:44 +0000      917 bytes  lib/rules/noForInArrayRule.d.ts</tspan>
+<tspan x="10" y="3002">185.  2017-04-20 06:31:44 +0000     4152 bytes  lib/rules/noForInArrayRule.js</tspan>
+<tspan x="10" y="3018">186.  2017-04-20 06:31:44 +0000      264 bytes  lib/rules/noImportSideEffectRule.d.ts</tspan>
+<tspan x="10" y="3034">187.  2017-04-20 06:31:44 +0000     3569 bytes  lib/rules/noImportSideEffectRule.js</tspan>
+<tspan x="10" y="3050">188.  2017-04-20 06:31:44 +0000      290 bytes  lib/rules/noInferrableTypesRule.d.ts</tspan>
+<tspan x="10" y="3066">189.  2017-04-20 06:31:44 +0000     6680 bytes  lib/rules/noInferrableTypesRule.js</tspan>
+<tspan x="10" y="3082">190.  2017-04-20 06:31:44 +0000      972 bytes  lib/rules/noInferredEmptyObjectTypeRule.d.ts</tspan>
+<tspan x="10" y="3098">191.  2017-04-20 06:31:44 +0000     5679 bytes  lib/rules/noInferredEmptyObjectTypeRule.js</tspan>
+<tspan x="10" y="3114">192.  2017-04-20 06:31:44 +0000      264 bytes  lib/rules/noInternalModuleRule.d.ts</tspan>
+<tspan x="10" y="3130">193.  2017-04-20 06:31:44 +0000     3990 bytes  lib/rules/noInternalModuleRule.js</tspan>
+<tspan x="10" y="3146">194.  2017-04-20 06:31:44 +0000      264 bytes  lib/rules/noInvalidTemplateStringsRule.d.ts</tspan>
+<tspan x="10" y="3162">195.  2017-04-20 06:31:44 +0000     2588 bytes  lib/rules/noInvalidTemplateStringsRule.js</tspan>
+<tspan x="10" y="3178">196.  2017-04-20 06:31:44 +0000      938 bytes  lib/rules/noInvalidThisRule.d.ts</tspan>
+<tspan x="10" y="3194">197.  2017-04-20 06:31:44 +0000     4620 bytes  lib/rules/noInvalidThisRule.js</tspan>
+<tspan x="10" y="3210">198.  2017-04-20 06:31:44 +0000      348 bytes  lib/rules/noMagicNumbersRule.d.ts</tspan>
+<tspan x="10" y="3226">199.  2017-04-20 06:31:44 +0000     4750 bytes  lib/rules/noMagicNumbersRule.js</tspan>
+<tspan x="10" y="3242">200.  2017-04-20 06:31:44 +0000      932 bytes  lib/rules/noMergeableNamespaceRule.d.ts</tspan>
+<tspan x="10" y="3258">201.  2017-04-20 06:31:44 +0000     4040 bytes  lib/rules/noMergeableNamespaceRule.js</tspan>
+<tspan x="10" y="3274">202.  2017-04-20 06:31:44 +0000      315 bytes  lib/rules/noMisusedNewRule.d.ts</tspan>
+<tspan x="10" y="3290">203.  2017-04-20 06:31:44 +0000     3460 bytes  lib/rules/noMisusedNewRule.js</tspan>
+<tspan x="10" y="3306">204.  2017-04-20 06:31:44 +0000      264 bytes  lib/rules/noNamespaceRule.d.ts</tspan>
+<tspan x="10" y="3322">205.  2017-04-20 06:31:44 +0000     4050 bytes  lib/rules/noNamespaceRule.js</tspan>
+<tspan x="10" y="3338">206.  2017-04-20 06:31:44 +0000      888 bytes  lib/rules/noNonNullAssertionRule.d.ts</tspan>
+<tspan x="10" y="3354">207.  2017-04-20 06:31:44 +0000     2602 bytes  lib/rules/noNonNullAssertionRule.js</tspan>
+<tspan x="10" y="3370">208.  2017-04-20 06:31:44 +0000      888 bytes  lib/rules/noNullKeywordRule.d.ts</tspan>
+<tspan x="10" y="3386">209.  2017-04-20 06:31:44 +0000     2971 bytes  lib/rules/noNullKeywordRule.js</tspan>
+<tspan x="10" y="3402">210.  2017-04-20 06:31:44 +0000     1064 bytes  lib/rules/noParameterPropertiesRule.d.ts</tspan>
+<tspan x="10" y="3418">211.  2017-04-20 06:31:44 +0000     3608 bytes  lib/rules/noParameterPropertiesRule.js</tspan>
+<tspan x="10" y="3434">212.  2017-04-20 06:31:44 +0000      289 bytes  lib/rules/noReferenceImportRule.d.ts</tspan>
+<tspan x="10" y="3450">213.  2017-04-20 06:31:44 +0000     4107 bytes  lib/rules/noReferenceImportRule.js</tspan>
+<tspan x="10" y="3466">214.  2017-04-20 06:31:44 +0000      888 bytes  lib/rules/noReferenceRule.d.ts</tspan>
+<tspan x="10" y="3482">215.  2017-04-20 06:31:44 +0000     2587 bytes  lib/rules/noReferenceRule.js</tspan>
+<tspan x="10" y="3498">216.  2017-04-20 06:31:44 +0000      888 bytes  lib/rules/noRequireImportsRule.d.ts</tspan>
+<tspan x="10" y="3514">217.  2017-04-20 06:31:44 +0000     3216 bytes  lib/rules/noRequireImportsRule.js</tspan>
+<tspan x="10" y="3530">218.  2017-04-20 06:31:44 +0000      914 bytes  lib/rules/noShadowedVariableRule.d.ts</tspan>
+<tspan x="10" y="3546">219.  2017-04-20 06:31:44 +0000     7097 bytes  lib/rules/noShadowedVariableRule.js</tspan>
+<tspan x="10" y="3562">220.  2017-04-20 06:31:44 +0000      264 bytes  lib/rules/noSparseArraysRule.d.ts</tspan>
+<tspan x="10" y="3578">221.  2017-04-20 06:31:44 +0000     4193 bytes  lib/rules/noSparseArraysRule.js</tspan>
+<tspan x="10" y="3594">222.  2017-04-20 06:31:44 +0000      888 bytes  lib/rules/noStringLiteralRule.d.ts</tspan>
+<tspan x="10" y="3610">223.  2017-04-20 06:31:44 +0000     3622 bytes  lib/rules/noStringLiteralRule.js</tspan>
+<tspan x="10" y="3626">224.  2017-04-20 06:31:44 +0000      888 bytes  lib/rules/noStringThrowRule.d.ts</tspan>
+<tspan x="10" y="3642">225.  2017-04-20 06:31:44 +0000     3586 bytes  lib/rules/noStringThrowRule.js</tspan>
+<tspan x="10" y="3658">226.  2017-04-20 06:31:44 +0000      516 bytes  lib/rules/noSwitchCaseFallThroughRule.d.ts</tspan>
+<tspan x="10" y="3674">227.  2017-04-20 06:31:44 +0000     6234 bytes  lib/rules/noSwitchCaseFallThroughRule.js</tspan>
+<tspan x="10" y="3690">228.  2017-04-20 06:31:44 +0000      264 bytes  lib/rules/noTrailingWhitespaceRule.d.ts</tspan>
+<tspan x="10" y="3706">229.  2017-04-20 06:31:44 +0000     6420 bytes  lib/rules/noTrailingWhitespaceRule.js</tspan>
+<tspan x="10" y="3722">230.  2017-04-20 06:31:44 +0000      917 bytes  lib/rules/noUnboundMethodRule.d.ts</tspan>
+<tspan x="10" y="3738">231.  2017-04-20 06:31:44 +0000     3736 bytes  lib/rules/noUnboundMethodRule.js</tspan>
+<tspan x="10" y="3754">232.  2017-04-20 06:31:44 +0000      280 bytes  lib/rules/noUnnecessaryCallbackWrapperRule.d.ts</tspan>
+<tspan x="10" y="3770">233.  2017-04-20 06:31:44 +0000     3917 bytes  lib/rules/noUnnecessaryCallbackWrapperRule.js</tspan>
+<tspan x="10" y="3786">234.  2017-04-20 06:31:44 +0000      309 bytes  lib/rules/noUnnecessaryInitializerRule.d.ts</tspan>
+<tspan x="10" y="3802">235.  2017-04-20 06:31:44 +0000     5118 bytes  lib/rules/noUnnecessaryInitializerRule.js</tspan>
+<tspan x="10" y="3818">236.  2017-04-20 06:31:44 +0000      307 bytes  lib/rules/noUnnecessaryQualifierRule.d.ts</tspan>
+<tspan x="10" y="3834">237.  2017-04-20 06:31:44 +0000     5891 bytes  lib/rules/noUnnecessaryQualifierRule.js</tspan>
+<tspan x="10" y="3850">238.  2017-04-20 06:31:44 +0000     1014 bytes  lib/rules/noUnsafeAnyRule.d.ts</tspan>
+<tspan x="10" y="3866">239.  2017-04-20 06:31:44 +0000     9560 bytes  lib/rules/noUnsafeAnyRule.js</tspan>
+<tspan x="10" y="3882">240.  2017-04-20 06:31:44 +0000      450 bytes  lib/rules/noUnsafeFinallyRule.d.ts</tspan>
+<tspan x="10" y="3898">241.  2017-04-20 06:31:44 +0000     7832 bytes  lib/rules/noUnsafeFinallyRule.js</tspan>
+<tspan x="10" y="3914">242.  2017-04-20 06:31:44 +0000      264 bytes  lib/rules/noUnusedExpressionRule.d.ts</tspan>
+<tspan x="10" y="3930">243.  2017-04-20 06:31:44 +0000     9887 bytes  lib/rules/noUnusedExpressionRule.js</tspan>
+<tspan x="10" y="3946">244.  2017-04-20 06:31:44 +0000      258 bytes  lib/rules/noUnusedVariableRule.d.ts</tspan>
+<tspan x="10" y="3962">245.  2017-04-20 06:31:44 +0000    15855 bytes  lib/rules/noUnusedVariableRule.js</tspan>
+<tspan x="10" y="3978">246.  2017-04-20 06:31:44 +0000      931 bytes  lib/rules/noUseBeforeDeclareRule.d.ts</tspan>
+<tspan x="10" y="3994">247.  2017-04-20 06:31:44 +0000     4255 bytes  lib/rules/noUseBeforeDeclareRule.js</tspan>
+<tspan x="10" y="4010">248.  2017-04-20 06:31:44 +0000      888 bytes  lib/rules/noVarKeywordRule.d.ts</tspan>
+<tspan x="10" y="4026">249.  2017-04-20 06:31:44 +0000     3956 bytes  lib/rules/noVarKeywordRule.js</tspan>
+<tspan x="10" y="4042">250.  2017-04-20 06:31:44 +0000      888 bytes  lib/rules/noVarRequiresRule.d.ts</tspan>
+<tspan x="10" y="4058">251.  2017-04-20 06:31:44 +0000     3520 bytes  lib/rules/noVarRequiresRule.js</tspan>
+<tspan x="10" y="4074">252.  2017-04-20 06:31:44 +0000      917 bytes  lib/rules/noVoidExpressionRule.d.ts</tspan>
+<tspan x="10" y="4090">253.  2017-04-20 06:31:44 +0000     4138 bytes  lib/rules/noVoidExpressionRule.js</tspan>
+<tspan x="10" y="4106">254.  2017-04-20 06:31:44 +0000     1005 bytes  lib/rules/objectLiteralKeyQuotesRule.d.ts</tspan>
+<tspan x="10" y="4122">255.  2017-04-20 06:31:44 +0000     9481 bytes  lib/rules/objectLiteralKeyQuotesRule.js</tspan>
+<tspan x="10" y="4138">256.  2017-04-20 06:31:44 +0000      927 bytes  lib/rules/objectLiteralShorthandRule.d.ts</tspan>
+<tspan x="10" y="4154">257.  2017-04-20 06:31:44 +0000     3686 bytes  lib/rules/objectLiteralShorthandRule.js</tspan>
+<tspan x="10" y="4170">258.  2017-04-20 06:31:44 +0000      914 bytes  lib/rules/objectLiteralSortKeysRule.d.ts</tspan>
+<tspan x="10" y="4186">259.  2017-04-20 06:31:44 +0000     4999 bytes  lib/rules/objectLiteralSortKeysRule.js</tspan>
+<tspan x="10" y="4202">260.  2017-04-20 06:31:44 +0000     1064 bytes  lib/rules/oneLineRule.d.ts</tspan>
+<tspan x="10" y="4218">261.  2017-04-20 06:31:44 +0000    14812 bytes  lib/rules/oneLineRule.js</tspan>
+<tspan x="10" y="4234">262.  2017-04-20 06:31:44 +0000      888 bytes  lib/rules/oneVariablePerDeclarationRule.d.ts</tspan>
+<tspan x="10" y="4250">263.  2017-04-20 06:31:44 +0000     3984 bytes  lib/rules/oneVariablePerDeclarationRule.js</tspan>
+<tspan x="10" y="4266">264.  2017-04-20 06:31:44 +0000      264 bytes  lib/rules/onlyArrowFunctionsRule.d.ts</tspan>
+<tspan x="10" y="4282">265.  2017-04-20 06:31:44 +0000     4851 bytes  lib/rules/onlyArrowFunctionsRule.js</tspan>
+<tspan x="10" y="4298">266.  2017-04-20 06:31:44 +0000      942 bytes  lib/rules/orderedImportsRule.d.ts</tspan>
+<tspan x="10" y="4314">267.  2017-04-20 06:31:44 +0000    15287 bytes  lib/rules/orderedImportsRule.js</tspan>
+<tspan x="10" y="4330">268.  2017-04-20 06:31:44 +0000      942 bytes  lib/rules/preferConstRule.d.ts</tspan>
+<tspan x="10" y="4346">269.  2017-04-20 06:31:44 +0000    14492 bytes  lib/rules/preferConstRule.js</tspan>
+<tspan x="10" y="4362">270.  2017-04-20 06:31:44 +0000      264 bytes  lib/rules/preferForOfRule.d.ts</tspan>
+<tspan x="10" y="4378">271.  2017-04-20 06:31:44 +0000     7779 bytes  lib/rules/preferForOfRule.js</tspan>
+<tspan x="10" y="4394">272.  2017-04-20 06:31:44 +0000      264 bytes  lib/rules/preferFunctionOverMethodRule.d.ts</tspan>
+<tspan x="10" y="4410">273.  2017-04-20 06:31:44 +0000     5656 bytes  lib/rules/preferFunctionOverMethodRule.js</tspan>
+<tspan x="10" y="4426">274.  2017-04-20 06:31:44 +0000      888 bytes  lib/rules/preferMethodSignatureRule.d.ts</tspan>
+<tspan x="10" y="4442">275.  2017-04-20 06:31:44 +0000     3144 bytes  lib/rules/preferMethodSignatureRule.js</tspan>
+<tspan x="10" y="4458">276.  2017-04-20 06:31:44 +0000      309 bytes  lib/rules/preferTemplateRule.d.ts</tspan>
+<tspan x="10" y="4474">277.  2017-04-20 06:31:44 +0000     5204 bytes  lib/rules/preferTemplateRule.js</tspan>
+<tspan x="10" y="4490">278.  2017-04-20 06:31:44 +0000      917 bytes  lib/rules/promiseFunctionAsyncRule.d.ts</tspan>
+<tspan x="10" y="4506">279.  2017-04-20 06:31:44 +0000     4613 bytes  lib/rules/promiseFunctionAsyncRule.js</tspan>
+<tspan x="10" y="4522">280.  2017-04-20 06:31:44 +0000      948 bytes  lib/rules/quotemarkRule.d.ts</tspan>
+<tspan x="10" y="4538">281.  2017-04-20 06:31:44 +0000     5716 bytes  lib/rules/quotemarkRule.js</tspan>
+<tspan x="10" y="4554">282.  2017-04-20 06:31:44 +0000      264 bytes  lib/rules/radixRule.d.ts</tspan>
+<tspan x="10" y="4570">283.  2017-04-20 06:31:44 +0000     3709 bytes  lib/rules/radixRule.js</tspan>
+<tspan x="10" y="4586">284.  2017-04-20 06:31:44 +0000      298 bytes  lib/rules/restrictPlusOperandsRule.d.ts</tspan>
+<tspan x="10" y="4602">285.  2017-04-20 06:31:44 +0000     3775 bytes  lib/rules/restrictPlusOperandsRule.js</tspan>
+<tspan x="10" y="4618">286.  2017-04-20 06:31:44 +0000      353 bytes  lib/rules/returnUndefinedRule.d.ts</tspan>
+<tspan x="10" y="4634">287.  2017-04-20 06:31:44 +0000     5202 bytes  lib/rules/returnUndefinedRule.js</tspan>
+<tspan x="10" y="4650">288.  2017-04-20 06:31:44 +0000      360 bytes  lib/rules/semicolonRule.d.ts</tspan>
+<tspan x="10" y="4666">289.  2017-04-20 06:31:44 +0000    11403 bytes  lib/rules/semicolonRule.js</tspan>
+<tspan x="10" y="4682">290.  2017-04-20 06:31:44 +0000      943 bytes  lib/rules/spaceBeforeFunctionParenRule.d.ts</tspan>
+<tspan x="10" y="4698">291.  2017-04-20 06:31:44 +0000     8492 bytes  lib/rules/spaceBeforeFunctionParenRule.js</tspan>
+<tspan x="10" y="4714">292.  2017-04-20 06:31:44 +0000     1354 bytes  lib/rules/strictBooleanExpressionsRule.d.ts</tspan>
+<tspan x="10" y="4730">293.  2017-04-20 06:31:44 +0000    16404 bytes  lib/rules/strictBooleanExpressionsRule.js</tspan>
+<tspan x="10" y="4746">294.  2017-04-20 06:31:44 +0000      461 bytes  lib/rules/strictTypePredicatesRule.d.ts</tspan>
+<tspan x="10" y="4762">295.  2017-04-20 06:31:44 +0000     9998 bytes  lib/rules/strictTypePredicatesRule.js</tspan>
+<tspan x="10" y="4778">296.  2017-04-20 06:31:44 +0000      264 bytes  lib/rules/switchDefaultRule.d.ts</tspan>
+<tspan x="10" y="4794">297.  2017-04-20 06:31:44 +0000     2414 bytes  lib/rules/switchDefaultRule.js</tspan>
+<tspan x="10" y="4810">298.  2017-04-20 06:31:44 +0000      338 bytes  lib/rules/trailingCommaRule.d.ts</tspan>
+<tspan x="10" y="4826">299.  2017-04-20 06:31:44 +0000     8965 bytes  lib/rules/trailingCommaRule.js</tspan>
+<tspan x="10" y="4842">300.  2017-04-20 06:31:44 +0000      306 bytes  lib/rules/tripleEqualsRule.d.ts</tspan>
+<tspan x="10" y="4858">301.  2017-04-20 06:31:44 +0000     4195 bytes  lib/rules/tripleEqualsRule.js</tspan>
+<tspan x="10" y="4874">302.  2017-04-20 06:31:44 +0000      264 bytes  lib/rules/typedefRule.d.ts</tspan>
+<tspan x="10" y="4890">303.  2017-04-20 06:31:44 +0000    12489 bytes  lib/rules/typedefRule.js</tspan>
+<tspan x="10" y="4906">304.  2017-04-20 06:31:44 +0000      853 bytes  lib/rules/typedefWhitespaceRule.d.ts</tspan>
+<tspan x="10" y="4922">305.  2017-04-20 06:31:44 +0000    13718 bytes  lib/rules/typedefWhitespaceRule.js</tspan>
+<tspan x="10" y="4938">306.  2017-04-20 06:31:44 +0000      888 bytes  lib/rules/typeofCompareRule.d.ts</tspan>
+<tspan x="10" y="4954">307.  2017-04-20 06:31:44 +0000     3651 bytes  lib/rules/typeofCompareRule.js</tspan>
+<tspan x="10" y="4970">308.  2017-04-20 06:31:44 +0000      566 bytes  lib/rules/unifiedSignaturesRule.d.ts</tspan>
+<tspan x="10" y="4986">309.  2017-04-20 06:31:44 +0000    12889 bytes  lib/rules/unifiedSignaturesRule.js</tspan>
+<tspan x="10" y="5002">310.  2017-04-20 06:31:44 +0000      264 bytes  lib/rules/useIsnanRule.d.ts</tspan>
+<tspan x="10" y="5018">311.  2017-04-20 06:31:44 +0000     3593 bytes  lib/rules/useIsnanRule.js</tspan>
+<tspan x="10" y="5034">312.  2017-04-20 06:31:44 +0000      949 bytes  lib/rules/variableNameRule.d.ts</tspan>
+<tspan x="10" y="5050">313.  2017-04-20 06:31:44 +0000     9031 bytes  lib/rules/variableNameRule.js</tspan>
+<tspan x="10" y="5066">314.  2017-04-20 06:31:44 +0000      264 bytes  lib/rules/whitespaceRule.d.ts</tspan>
+<tspan x="10" y="5082">315.  2017-04-20 06:31:44 +0000    12819 bytes  lib/rules/whitespaceRule.js</tspan>
+<tspan x="10" y="5098">316.  2017-04-20 06:31:44 +0000     1618 bytes  lib/runner.d.ts</tspan>
+<tspan x="10" y="5114">317.  2017-04-20 06:31:44 +0000     7545 bytes  lib/runner.js</tspan>
+<tspan x="10" y="5130">318.  2017-04-20 06:31:44 +0000      872 bytes  lib/test.d.ts</tspan>
+<tspan x="10" y="5146">319.  2017-04-20 06:31:44 +0000    11076 bytes  lib/test.js</tspan>
+<tspan x="10" y="5162">320.  2017-04-20 06:31:44 +0000     1364 bytes  lib/test/lines.d.ts</tspan>
+<tspan x="10" y="5178">321.  2017-04-20 06:31:44 +0000     6702 bytes  lib/test/lines.js</tspan>
+<tspan x="10" y="5194">322.  2017-04-20 06:31:44 +0000      363 bytes  lib/test/lintError.d.ts</tspan>
+<tspan x="10" y="5210">323.  2017-04-20 06:31:44 +0000     1481 bytes  lib/test/lintError.js</tspan>
+<tspan x="10" y="5226">324.  2017-04-20 06:31:44 +0000      615 bytes  lib/test/parse.d.ts</tspan>
+<tspan x="10" y="5242">325.  2017-04-20 06:31:44 +0000     7082 bytes  lib/test/parse.js</tspan>
+<tspan x="10" y="5258">326.  2017-04-20 06:31:44 +0000        0 bytes  lib/tslint-cli.d.ts</tspan>
+<tspan x="10" y="5274">327.  2017-04-20 06:31:44 +0000     7836 bytes  lib/tslint-cli.js</tspan>
+<tspan x="10" y="5290">328.  2017-04-20 06:31:44 +0000     2051 bytes  lib/utils.d.ts</tspan>
+<tspan x="10" y="5306">329.  2017-04-20 06:31:44 +0000     4712 bytes  lib/utils.js</tspan>
+<tspan x="10" y="5322">330.  2017-04-20 06:31:44 +0000     4248 bytes  package.json</tspan>
 </text>
 </svg>
